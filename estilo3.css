@@ -1,0 +1,32 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 8px;
+    background-color: #dddddd;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  h1{
+      font-size: 200%;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color: #dddddd;
+  }
+
+  .boton{
+    background-color: #f44336;
+    color: white;
+    padding: 15px 25px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+
+  }
